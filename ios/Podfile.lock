@@ -1,7 +1,7 @@
 PODS:
-  - BIJKPlayer (0.7.3)
-  - fijkplayer (0.8.4):
-    - BIJKPlayer (~> 0.7.3)
+  - BIJKPlayer (0.7.10)
+  - fijkplayer (0.9.0):
+    - BIJKPlayer (~> 0.7.10)
     - Flutter
   - Flutter (1.0.0)
 
@@ -10,7 +10,7 @@ DEPENDENCIES:
   - Flutter (from `Flutter`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  trunk:
     - BIJKPlayer
 
 EXTERNAL SOURCES:
@@ -20,10 +20,10 @@ EXTERNAL SOURCES:
     :path: Flutter
 
 SPEC CHECKSUMS:
-  BIJKPlayer: 1ecf2e48a182e2e4618d47a01d04814ee4126c96
-  fijkplayer: df94cc554363066892cd2a6b1d94aaf9077fcb64
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  BIJKPlayer: 6727b075679eb5173b6d16f42ff2f33b9a757213
+  fijkplayer: f9cdfb1e8c9ba8ed31dda5689cebabe52f233907
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
 
-PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
+PODFILE CHECKSUM: 2c3720bba74f4f4aa42d9c88d4ec454b4f622005
 
-COCOAPODS: 1.7.1
+COCOAPODS: 1.10.0
